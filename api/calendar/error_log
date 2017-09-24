@@ -1,0 +1,2 @@
+[29-Jun-2017 11:46:40 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home4/nicolas/public_html/admin/api/calendar/add.php on line 7
+[29-Jun-2017 11:46:40 America/Chicago] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home4/nicolas/public_html/admin/api/calendar/add.php on line 7
